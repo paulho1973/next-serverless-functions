@@ -1,3 +1,5 @@
+Refer to article posted in [Medium](https://paulho1973.medium.com/serverless-functions-using-next-js-api-routes-6d8d1970a137).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
