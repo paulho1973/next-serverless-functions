@@ -3,7 +3,7 @@ import { ApolloClient, InMemoryCache, createHttpLink, gql } from '@apollo/client
 const createApolloClient = () => {
     return new ApolloClient({
       link: new createHttpLink({
-        uri: 'https://winter-tree.ap-south-1.aws.cloud.dgraph.io/graphql',
+        uri: 'https://winter-tree.ap-south-1.aws.cloud.dgraph.io/graphql'
       }),
       cache: new InMemoryCache(),
     })
